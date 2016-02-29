@@ -48,7 +48,7 @@ const data = [
     // Vanligvis vil det gå ned X poenger i sekundet, trekt fra den totale scoren
     // som er mulig å få per spørsmål. En deadline vil være etter gitt antall
     // sekunder så vil ikke lenger scroen bli redusert (er på minimumsverdi).
-    "totalPoints": 10000
+    "totalPoints": 10000,
     "deadline": 3600,
     "pointsReducedPerSec": 1,
     "deadlinePoints": 100, // hvor mye som er minimum-poeng etter deadline er over.
