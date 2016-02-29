@@ -1,8 +1,14 @@
 [
   {
     "name": "Example name",
+    "tags": ["algorithm", "math", "haskell"],
+
+    "difficulty": "medium",
+
     "type": "text",
+
     "question": "# Markdown document",
+
     "hints": [
       {
         "hint": "Some hint text (markdown)",
@@ -17,7 +23,11 @@
         "cost": 100,
       }
     ],
+    "totalPoints": 10000
     "deadline": 3600,
+    "pointsReducedPerSec": 1,
+    "deadlinePoints": 100,
+
     "bonus": [
       {
         "place": 1,

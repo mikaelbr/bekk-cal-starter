@@ -18,6 +18,9 @@ const data = [
     "name": "Example name",
     "tags": ["algorithm", "math", "haskell"], // kategorier/tags for typen oppgave
 
+    // Vanskelighetsgrad på spørsmål. En av ["easy", "medium", "hard"]
+    "difficulty": "medium",
+
     // Kan være type "text", "list", "multiline" eller lignende. For å gi mer
     // tilpasset svartyper
     "type": "text",
