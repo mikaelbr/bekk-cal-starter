@@ -1,4 +1,4 @@
-# BEKK Kode Kalender
+# BEKK Kodekalender
 
 Hensikten er å lage en quiz-applikasjon for kodeoppgaver - alá eksisterende
 kodekalendere - men trenger ikke nødvendigvis å være forbeholdt spesifikke
