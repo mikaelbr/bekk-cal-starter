@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Example name",
+    "type": "text",
+    "question": "# Markdown document",
+    "hints": [
+      {
+        "hint": "Some hint text (markdown)",
+        "cost": 10,
+      },
+      {
+        "hint": "Some hint text (markdown)",
+        "cost": 50,
+      },
+      {
+        "hint": "Some hint text (markdown)",
+        "cost": 100,
+      }
+    ],
+    "deadline": 3600,
+    "bonus": [
+      {
+        "place": 1,
+        "bonus": 100
+      },
+      {
+        "place": 2,
+        "bonus": 80
+      },
+      {
+        "place": [3, 10],
+        "bonus": 30
+      },
+      {
+        "place": [11, 20],
+        "bonus": 10
+      }
+    ],
+    "penalty": 10
+  }
+]
